@@ -1,0 +1,24 @@
+{
+  "name": "really-usefull-functions",
+  "version": "0.0.11",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "functions",
+    "usefull",
+    "js"
+  ],
+  "author": "alchinno",
+  "license": "MIT",
+  "description": "just some usefull functions for js that makes your life easier writing js",
+  "dependencies": {
+    "date-and-time": "^2.4.3"
+  },
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  }
+}
